@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Filter Cards é um aplicativo básico de busca de cartões.
 
-- [Visite o projeto online](evilisglenio.github.io/Filter-Cards/)
+- [Visite o projeto online](https://evilisglenio.github.io/Filter-Cards/)
 
 
 ## :memo: Licença
